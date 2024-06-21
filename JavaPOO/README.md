@@ -27,26 +27,5 @@ Metódos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
 ### Diagrama UML
 
----
-title: iPhone example
----
-classDiagram
-    iPhone <|-- ReprodutorMusical
-    iPhone <|-- AparelhoTelefonico
-    iPhone <|-- NavegadorInternet
-    class ReprodutorMusical{
-        +tocar()
-        +pausar()
-        +selecionarMusica(String musica)
-    }
-    class AparelhoTelefonico{
-        +ligar(String numero)
-        +atender()
-        +iniciarCorreioVoz()
-    }
-    class NavegadorInternet{
-        +exibirPagina(String url)
-        +adicionarNovaAba()
-        +atualizarPagina()
-    }
+![Untitled diagram-2024-06-21-121824](https://github.com/kajiyap/dio-javaIA/assets/126246657/73c83857-ca40-447f-a67e-cccb2cbe3d1b)
 
