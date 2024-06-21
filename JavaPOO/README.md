@@ -27,5 +27,5 @@ Metódos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
 ### Diagrama UML
 
-
+![Untitled diagram-2024-06-21-121824](https://github.com/kajiyap/dio-javaIA/assets/126246657/73c83857-ca40-447f-a67e-cccb2cbe3d1b)
 
