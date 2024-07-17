@@ -25,13 +25,11 @@ public class CarrinhoDeCompras {
     }
 
     public double calcularValorTotal(){
-        double valorTotal = 0;
-        for(Item i: carrinhoCompra){
-            valorTotal += (i.getPreco()*i.getQuantidade());
-        }
-        return valorTotal;
+        return carrinhoCompra.stream()
+        .mapToDouble(item -> item.getPreco()*item.getQuantidade())
+        .sum();
     }
-
+    
     public void exibeItem(){
         System.out.println(carrinhoCompra);
     }
