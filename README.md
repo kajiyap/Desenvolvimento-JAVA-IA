@@ -1,2 +1,4 @@
-# dio-javaIA
-Repositório para armazenar meus projetos e aprendizagem do bootcamp de desenvolvimento Java com IA da DIO
+# Desenvolvimento-JAVA-IA
+
+Repositório para armazenar meu processo de aprendizagem sobre desenvolvimento Java com IA.
+
