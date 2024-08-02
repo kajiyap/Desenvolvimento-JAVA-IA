@@ -1,4 +1,4 @@
-package dio.springBoot;
+package dio.springBoot.teste1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package dio.springBoot;
+package dio.springBoot.teste1;
 
 import org.springframework.stereotype.Component;
 
